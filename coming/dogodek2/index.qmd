@@ -1,0 +1,12 @@
+---
+title: "Delavnica: Kako ustvariti spletni življenjepis s Quartom?"
+date: 01-30-2023
+author: Urša Mikavčič
+categories: [delavnica, vizualizacija, quarto]
+image: "quarto.png"
+--- 
+
+V kratkem sledi delavnica kako ustvariti življenjepis/spletno stran v RStudiu s pomočjo Quarta. 
+Datum zaenkrat še ni znan, saj se še učim (Urša). 
+
+Če bi kdo želel pomagati prilagam link do GitHub-a <https://github.com/rladies-slo/webpage/>. 

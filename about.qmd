@@ -1,0 +1,24 @@
+---
+title: "Kdo smo?"
+image: images/aboutus.jpg
+about:
+  template: solana
+  links:
+    - icon: meetup
+      text: MeetUp
+      href: https://www.meetup.com/rladies-ljubljana/
+---
+
+Poglavje R-Ladies Slovenija
+
+Organiziramo online & in-person delavnice, predavanja in neformalna srečanja na temo R:
+
+-   različni paketi,
+
+-   uporaba,
+
+-   algoritmi,
+
+-   in vse kar spada zraven.
+
+Vabljeni vsi ne glede na nivo znanja R (začetniki ali izkušeni uporabniki in vsi vmes), da si skupaj pomagamo pri uporabi, mentoriranju in networkingu!

@@ -1,0 +1,11 @@
+---
+title: "Predavanje: Organizacija projekta v R"
+author: "Urša Miklavčič"
+date: "2023-01-27"
+categories: [predavanja]
+image: "aboutus.jpg"
+---
+
+Predavanje o organizaciji projekta v R, uporaba git in kaj je Docker.
+
+Roman Luštrik <https://twitter.com/romunov?lang=en>

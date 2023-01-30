@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: b2c1426e-c9fd-4340-960c-02fffc33c67d
+      url: 'https://quartopub.com/sites/rladies-slo/r-ladies-slovenia'

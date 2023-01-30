@@ -1,0 +1,37 @@
+project:
+  type: website
+
+website:
+  title: "R-Ladies Slovenia"
+  page-footer: 
+    center: |
+      [GitHub Code Repo](https://github.com/rladies-slo/website)
+    right: |
+      Made with [Quarto](https://quarto.org/)
+    background: "#87CEEB"
+  search: 
+    location: navbar
+    type: overlay
+  navbar:
+    left:
+      - text: Domov 
+        href: index.qmd
+      - text: Dogodki  
+        href: dogodki.qmd
+    right:
+      - about.qmd
+      - icon: envelope
+        href: mailto:rladies.slo@gmail.com
+      - icon: calendar-check
+        href: https://www.meetup.com/rladies-ljubljana/
+      - icon: slack
+        href: https://join.slack.com/t/rkoholiki/shared_invite/zt-1ntoam24j-q6FPRuxq~VwPabfPI0V4Iw
+      - icon: github
+        href: https://github.com/rladies-slo
+format:
+  html:
+    theme: slate
+    css: styles.css
+
+editor: visual
+

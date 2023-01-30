@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Kdo smo?",
+    "section": "",
+    "text": "Poglavje R-Ladies Slovenija\nOrganiziramo online & in-person delavnice, predavanja in neformalna srečanja na temo R:\n\nrazlični paketi,\nuporaba,\nalgoritmi,\nin vse kar spada zraven.\n\nVabljeni vsi ne glede na nivo znanja R (začetniki ali izkušeni uporabniki in vsi vmes), da si skupaj pomagamo pri uporabi, mentoriranju in networkingu!"
+  },
+  {
+    "objectID": "coming/dogodek2/index.html",
+    "href": "coming/dogodek2/index.html",
+    "title": "Delavnica: Kako ustvariti spletni življenjepis s Quartom?",
+    "section": "",
+    "text": "V kratkem sledi delavnica kako ustvariti življenjepis/spletno stran v RStudiu s pomočjo Quarta. Datum zaenkrat še ni znan, saj se še učim (Urša).\nČe bi kdo želel pomagati prilagam link do GitHub-a https://github.com/rladies-slo/webpage/."
+  },
+  {
+    "objectID": "dogodki.html",
+    "href": "dogodki.html",
+    "title": "Dogodki",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n\n\n\n\n  \n\n\n\n\nDelavnica: Kako ustvariti spletni življenjepis s Quartom?\n\n\n\n\n\n\n\ndelavnica\n\n\nvizualizacija\n\n\nquarto\n\n\n\n\n\n\n\n\n\n\n\nJan 30, 2023\n\n\nUrša Mikavčič\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Kaj počnemo",
+    "section": "",
+    "text": "Predavanje: Organizacija projekta v R\n\n\n\n\n\n\n\npredavanja\n\n\n\n\n\n\n\n\n\n\n\nJan 27, 2023\n\n\nUrša Miklavčič\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/dogodek1/index.html",
+    "href": "posts/dogodek1/index.html",
+    "title": "Predavanje: Organizacija projekta v R",
+    "section": "",
+    "text": "Predavanje o organizaciji projekta v R, uporaba git in kaj je Docker.\nRoman Luštrik https://twitter.com/romunov?lang=en"
+  }
+]
